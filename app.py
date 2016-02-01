@@ -1,5 +1,8 @@
 # newGitTest
 
 # app
-def test1() : 
+def test2() : 
+	pass
+
+def test() : 
 	pass
