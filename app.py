@@ -9,3 +9,6 @@ def test() :
 
 def test3() : 
 	pass
+
+def app() : 
+	pass
