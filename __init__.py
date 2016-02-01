@@ -1,0 +1,3 @@
+# newGitTest
+
+# init from test
