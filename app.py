@@ -2,4 +2,4 @@
 
 # add from b1
 
-add from b2
+add from B2
