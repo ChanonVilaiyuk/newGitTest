@@ -1,5 +1,5 @@
 # master branch
 
-add from b1
+add from B1
 
 # add from b2
